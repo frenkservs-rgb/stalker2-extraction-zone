@@ -1,0 +1,18 @@
+{
+    "FileVersion":  3,
+    "Version":  1,
+    "VersionName":  "",
+    "CreatedByURL":  "",
+    "DocsURL":  "",
+    "MarketplaceURL":  "",
+    "SupportURL":  "",
+    "FriendlyName":  "ExtractionZone",
+    "Description":  "Cordon raid prototype: sheltered base, two insertion and extraction points, timed raids.",
+    "Category":  "Game Features",
+    "CreatedBy":  "frenkservs-rgb",
+    "EnabledByDefault":  true,
+    "CanContainContent":  true,
+    "ExplicitlyLoaded":  true,
+    "BuiltInInitialFeatureState":  "Registered",
+    "Mod":  true
+}

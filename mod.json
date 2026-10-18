@@ -1,0 +1,12 @@
+{
+    "name":  "ExtractionZone",
+    "short":  "ExZone",
+    "repo":  "stalker2-extraction-zone",
+    "description":  "Cordon raid prototype: sheltered base, two insertion and extraction points, timed raids.",
+    "release_pak_suffix":  20,
+    "dev_pak_suffix":  30,
+    "nexus_id":  null,
+    "optional_plugins":  [
+
+                         ]
+}
